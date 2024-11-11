@@ -2,6 +2,10 @@
 
 Este projeto foi uma "quest" do curso, desenvolvida para aplicar conhecimentos de HTML e CSS e finalizar um módulo do curso. Trata-se de um projeto simples, focado em prática e entrega.
 
+## Preview
+
+![Preview do Projeto](./src/img/Screenshot_1.png)
+
 ## Tecnologias Utilizadas
 
 - **HTML**: Usado para a estrutura da página
